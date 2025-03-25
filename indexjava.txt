@@ -1,0 +1,9 @@
+<DOCTYPE html>
+<html>
+<body>
+<h2> My first JavaScript</h2>
+<button 
+on click="document.getElementById('demo').innerHTML='<a href= output.html> Next Demo</a>'"> Click Me!</button>
+<p id="demo"></p>
+</body>
+</html>
